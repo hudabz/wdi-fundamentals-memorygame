@@ -27,4 +27,13 @@ if (cardsInPlay[0] === cardsInPlay[1]) {
 
     }
 
-    flipcard(0); 
+    flipcard(0);  
+
+    function createdBoard (){
+
+    	for (var i =0; i <cards.lenght; i++) 
+    	{
+
+
+    	}
+    }
